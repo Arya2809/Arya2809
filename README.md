@@ -20,7 +20,7 @@
 
 📧 Email: your.email@example.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/arya-prabhu-4bb68a302)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arya-prabhu-a889ba301/)
 <!--
 **Arya2809/Arya2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
