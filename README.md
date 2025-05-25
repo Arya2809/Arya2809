@@ -16,6 +16,11 @@
 
 🔍 Actively seeking entry-level software engineering roles — ready to contribute and grow in a collaborative team.
 
+## Get in Touch
+
+📧 Email: your.email@example.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/arya-prabhu-4bb68a302)
 <!--
 **Arya2809/Arya2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
