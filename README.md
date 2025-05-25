@@ -1,4 +1,4 @@
-👋  About Me
+## About Me
 
 🎓 Final-year Computer Engineering student, graduating in July 2025, with a strong foundation in full-stack development, AI, and software engineering principles.
 
@@ -18,7 +18,7 @@
 
 ## Get in Touch
 
-📧 Email: your.email@example.com
+📧 Email: aryaprabhu28@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arya-prabhu-a889ba301/)
 <!--
