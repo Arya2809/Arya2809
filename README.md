@@ -1,4 +1,5 @@
- About Me
+👋  About Me
+
 🎓 Final-year Computer Engineering student, graduating in July 2025, with a strong foundation in full-stack development, AI, and software engineering principles.
 
 💻 Passionate developer experienced in building real-world projects using Python, JavaScript/TypeScript, Flask, Node.js, and Next.js.
