@@ -1,7 +1,6 @@
-# Hi, I'm Arya Prabhu
-
-
-Novice SWE
+## About Me  
+Novice Software Engineer, passionate about designing appealing and interactive web pages.  
+Eager to learn, experiment with new technologies, and contribute to meaningful projects along the way.
 
 ---
 
@@ -21,13 +20,10 @@ Novice SWE
 🔹 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app enabling doctor booking, patient registration & symptom checker.  
 🔹 **[Knowledge Graph Bot](https://github.com/Arya2809/knowledge-graph)** – Query bot built from textbook PDFs using natural language processing.  
 🔹 **[Missionary-Cannibal Game](https://github.com/Arya2809/missionary-cannibal-game)** – AI pathfinding using the A* algorithm in Python.  
-
-
----
-
-##  A Little About Me
-I’m deeply passionate about crafting intuitive user experiences, optimizing backend systems, and building scalable architectures. I continuously learn and adapt — always blending innovation with usability.
+🔹 **[Movie Booking System](https://github.com/Arya2809/Movie-Booking-System)** – A system built using C++, features include: booking movie tickets for any one of the 3 movies displayed based on 2D or 3D, select genre.
 
 ---
+
+
 
 Thanks for stopping by — let’s build something meaningful together!  
