@@ -10,7 +10,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
 </a>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaprabhu28@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aryaprabhu28@gmail.com)   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-prabhu/)
 ---
 
