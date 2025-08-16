@@ -10,8 +10,19 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ---
 
-##  My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=midnight-purple)
+##  My GitHub Activity  
+
+<div align="center">
+
+| GitHub Stats | Streak |
+|--------------|--------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=midnight-purple) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Arya2809&theme=midnight-purple&hide_border=true) |
+
+| Top Languages | Trophies |
+|---------------|----------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya2809&layout=compact&theme=midnight-purple) | ![Trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=midnight-purple&margin-w=15&no-frame=true) |
+
+</div>
 
 ---
 
