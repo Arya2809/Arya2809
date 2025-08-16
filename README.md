@@ -6,10 +6,10 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ##  Let’s Connect
 - **Email:** [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
-- **LinkedIn:**
-<a href="https://www.linkedin.com/in/arya-prabhu/">
+- **LinkedIn:** <a href="https://www.linkedin.com/in/arya-prabhu/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
 </a>
+
 ---
 
 ##  My GitHub Activity  
