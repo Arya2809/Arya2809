@@ -17,8 +17,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 ---
 
 ##  Projects I’m Proud Of
-🔹 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app enabling doctor booking, patient registration & symptom checker.  
-🔹 **[Knowledge Graph Bot](https://github.com/Arya2809/knowledge-graph)** – Query bot built from textbook PDFs using natural language processing.  
+🔹 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app enabling doctor booking, patient registration & symptom checker.   
 🔹 **[Missionary-Cannibal Game](https://github.com/Arya2809/missionary-cannibal-game)** – AI pathfinding using the A* algorithm in Python.  
 🔹 **[Movie Booking System](https://github.com/Arya2809/Movie-Booking-System)** – A system built using C++, features include: booking movie tickets for any one of the 3 movies displayed based on 2D or 3D, select genre.
 
