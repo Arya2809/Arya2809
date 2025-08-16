@@ -22,7 +22,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
     
       
    ##  GitHub Stats  
-   <img src="https://github-readme-stats.vercel.app/api?username=AryaPrabhu&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
     
    </td>
     <td valign="top" width="50%">
@@ -37,7 +37,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 ---
 
 ### 🏆 Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Arya_Prabhu&theme=darkhub&row=2&column=4&title=Commits,Repositories,Stars,Followers,Experience,Issues,PullRequest,Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=darkhub&row=2&column=4&title=Commits,Repositories,Stars,Followers,Experience,Issues,PullRequest,Reviews)
 
 
 ---
