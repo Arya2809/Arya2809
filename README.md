@@ -6,16 +6,10 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ##  Let’s Connect
 - **Email:** [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-prabhu/)
-## 📬 Get in Touch  
-
-📧 **Email:** [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
-
-🌐 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-prabhu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arya2809)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](#)  
-
+- **LinkedIn:**
+<a href="https://www.linkedin.com/in/arya-prabhu/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+</a>
 ---
 
 ##  My GitHub Activity  
