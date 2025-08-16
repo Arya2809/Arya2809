@@ -5,11 +5,9 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 ---
 
 ##  Let’s Connect
--  <a href="mailto:aryaprabhu28@gmail.com">
+ <a href="mailto:aryaprabhu28@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
-  </a> 
-
-  <a href="https://www.linkedin.com/in/arya-prabhu/">
+  </a>  <a href="https://www.linkedin.com/in/arya-prabhu/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
 </a>
 
