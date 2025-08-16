@@ -16,23 +16,31 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ---
 
-##  GitHub Activity  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+    
+      
+   ##  GitHub Stats  
+   <img src="https://github-readme-stats.vercel.app/api?username=AryaPrabhu&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
+    
+   </td>
+    <td valign="top" width="50%">
+      
+   ##  Tech Stack  
+   <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,typescript,cpp,js,nextjs,daisyui" />
+    
+   </td>
+  </tr>
+</table>
 
-<div align="center">
+---
 
+### 🏆 Trophies  
 
-| GitHub Stats | Tech Stack |
-|--------------|---------------------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=midnight-purple) |  |<div align="left"> <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) <br><br> </div> |
-
-
-| Trophies |
-|----------|
-|  ![Trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=algolia&title=Commit,Followers,Repositories,Stars&row=1&column=4&margin-w=30&margin-h=30) |
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AryaPrabhu&theme=radical&margin-w=15&margin-h=15&column=4" alt="Trophies"/>
+</p>
 ---
 
 ##  Projects 
