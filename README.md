@@ -7,7 +7,7 @@ Novice SWE
 
 ##  Let’s Connect
 - **Email:** [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arya-prabhu/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arya-prabhu/)
 
 ---
 
