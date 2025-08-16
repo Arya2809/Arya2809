@@ -13,7 +13,7 @@ Novice SWE
 
 ##  My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya2809&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya2809&langs_count=8&layout=compact&theme=midnight-purple)
 
 ---
 
