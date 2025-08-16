@@ -37,10 +37,9 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 ---
 
 ### 🏆 Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&row=2&column=4&title=Commits,Repositories,Stars,Followers,Experience,Issues,PullRequest,Reviews)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryaPrabhu&theme=radical&margin-w=15&margin-h=15&column=4" alt="Trophies"/>
-</p>
+
 ---
 
 ##  Projects 
