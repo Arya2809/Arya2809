@@ -6,7 +6,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ##  Let’s Connect
 - **Email:** [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arya-prabhu/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-prabhu/)
 
 ---
 
