@@ -1,37 +1,48 @@
-## About Me
+# 👋 Hey, I'm Arya  
 
-🎓 Final-year Computer Engineering student, graduating in July 2025, with a strong foundation in full-stack development, AI, and software engineering principles.
+🎓 Final-year Computer Engineering Student (Graduating July 2025)  
+💻 Building full-stack web apps | Curious about **Data Analytics** & **Machine Learning**  
+🌱 Currently improving my skills in **Next.js, Flask, and scalable backend systems**  
 
-💻 Passionate developer experienced in building real-world projects using Python, JavaScript/TypeScript, Flask, Node.js, and Next.js.
+---
 
-<!--🧠 Creator of Thea – an AI therapist that integrates voice interaction, sentiment analysis (VADER), and emotion recognition (DeepFace) to support mental wellness.-->
+## ⚡ Tech Toolbox  
+- **Languages:** Python, JavaScript, TypeScript, C++  
+- **Frameworks & Libraries:** Flask, Node.js, Next.js, Tailwind CSS  
+- **Databases:** MongoDB, PostgreSQL  
+- **Other Interests:** Web3, Knowledge Graphs, System Design  
 
-🌐 Hands-on experience with MongoDB, PostgreSQL, AG Grid, Tailwind CSS, and building responsive and dynamic web apps.
+---
 
-🚀 Currently exploring Web3, machine learning, and scalable backend systems.
+## 📊 My GitHub Snapshot  
 
-🛠️ Comfortable working with modern dev tools: Git, Postman, MongoDB Compass, and VS Code.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya2809&layout=compact&theme=react)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arya2809&theme=react)  
 
-💡 Known for creativity, time management, and building functional UIs with a focus on user experience.
+---
 
-🔍 Actively seeking entry-level software engineering roles — ready to contribute and grow in a collaborative team.
+## 🚀 Featured Projects  
 
-## Get in Touch
+- 🏥 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app for booking doctors, registering patients & symptom checking.  
+- 🎬 **[Movie Booking System](https://github.com/Arya2809/Movie-Booking-System)** – C++ console-based ticket booking with seat selection.  
+- 📚 **[Knowledge Graph Bot](https://github.com/Arya2809/knowledge-graph)** – Query bot from textbook PDFs (NLP + preprocessing).  
+- 🎮 **[Missionary-Cannibal Game](https://github.com/Arya2809/missionary-cannibal-game)** – AI search problem solved with A* algorithm.  
 
-📧 Email: aryaprabhu28@gmail.com
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arya-prabhu-a889ba301/)
-<!--
-**Arya2809/Arya2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏅 Achievements & Learning Goals  
 
-Here are some ideas to get you started:
+✔️ Built projects across **Web Dev, AI, and Algorithms**  
+✔️ Experience with responsive UI & database-driven apps  
+🌟 Learning: Advanced **Data Visualization** & **System Design**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me  
+📧 [aryaprabhu28@gmail.com](mailto:aryaprabhu28@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arya-prabhu/)  
+
+---
+
+⭐ *“Always learning, always building.”*  
