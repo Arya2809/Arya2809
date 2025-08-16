@@ -36,8 +36,8 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 
 ---
 
-### 🏆 Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=darkhub&row=2&column=4&title=Commits,Repositories,Stars,Followers,Experience)
+##  Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=darkhub&row=2&column=4&title=Commits,Repositories,Followers,Experience)
 
 
 ---
