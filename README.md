@@ -28,7 +28,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
     <td valign="top" width="50%">
       
    ##  Tech Stack  
-   <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,typescript,cpp,js,nextjs,daisyui" />
+   <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,cpp,js,react" />
     
    </td>
   </tr>
