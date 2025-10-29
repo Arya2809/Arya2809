@@ -43,7 +43,7 @@ Eager to learn, experiment with new technologies, and contribute to meaningful p
 ---
 
 ##  Projects 
-🔹 **[Recipe Finder](https://github.com/Arya2809/Recipe-Finder)** – A Recipe Finder app developed using React, Tailwindcss and javascript. Features include Finding recipes using search, viewing recipe details, viewing random recipes.  
+🔹 **[Recipe Finder](https://github.com/Arya2809/Recipe-Finder)** – A Recipe Finder app developed using React, Tailwindcss,  Javascript and **[The MealDB](https://www.themealdb.com/)** for API. Features include Finding recipes using search, viewing recipe details, viewing random recipes.  
 🔹 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app enabling doctor booking, patient registration & symptom checker.   
 🔹 **[Missionary-Cannibal Game](https://github.com/Arya2809/missionary-cannibal-game)** – AI pathfinding using the A* algorithm in Python.  
 🔹 **[Movie Booking System](https://github.com/Arya2809/Movie-Booking-System)** – A system built using C++, features include: booking movie tickets for any one of the 3 movies displayed based on 2D or 3D, select genre.
