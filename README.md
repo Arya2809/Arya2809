@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AryaBanner.png" alt="GitHub Banner" width="100%">
+</p>
+
 ## About Me  
 Novice Software Engineer, passionate about designing appealing and interactive web pages.  
 Eager to learn, experiment with new technologies, and contribute to meaningful projects along the way.
