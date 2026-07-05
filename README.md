@@ -1,59 +1,126 @@
 <p align="center">
-  <img src="AryaBanner.png" alt="GitHub Banner" width="100%">
+  <img src="AryaBanner.png" width="100%">
 </p>
 
-## About Me  
-Novice Software Engineer, passionate about designing appealing and interactive web pages.  
-Eager to learn, experiment with new technologies, and contribute to meaningful projects along the way.
+<h1 align="center">Hi 👋 I'm Arya Prabhu</h1>
+
+<h3 align="center">
+Frontend Developer • QA Engineer
+</h3>
+
+<p align="center">
+Crafting modern, responsive web experiences with a quality-first approach.
+</p>
 
 ---
 
-##  Get in touch
- - **Email:** <a href="mailto:aryaprabhu28@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
-  </a>           
-  
- - **LinkedIn:** <a href="https://www.linkedin.com/in/arya-prabhu/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
-  </a>
+# 🙋 About Me
 
+I'm passionate about building clean, responsive, and user-friendly web applications that deliver a great user experience.
+
+My experience in Quality Assurance has taught me to think beyond writing code—focusing on reliability, usability, and attention to detail in every project.
+
+Currently, I'm expanding my frontend portfolio by building real-world applications and business websites while continuously learning modern web technologies.
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-    
-      
-   ##  GitHub Stats  
-   <img src="https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
-    
-   </td>
-    <td valign="top" width="50%">
-      
-   ##  Tech Stack  
-   <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,cpp,react" />
-    
-   </td>
-  </tr>
-</table>
+# 🎯 Current Focus
+
+- 🚀 React Development
+- 🎨 UI / UX
+- 📱 Responsive Design
+- ⚡ Performance Optimization
+- ✅ Quality Assurance
+- 🌍 Freelance Web Development
 
 ---
 
-##  Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Arya2809&theme=darkhub&row=2&column=4&title=Commits,Repositories,Followers,Experience)
+# 🛠 Tech Stack
 
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-##  Projects 
-🔹 **[Recipe Finder](https://github.com/Arya2809/Recipe-Finder)** – A Recipe Finder app developed using React, Tailwindcss,  Javascript and **[The MealDB](https://www.themealdb.com/)** for API. Features include Finding recipes using search, viewing recipe details, viewing random recipes.  
-🔹 **[Inspirewell](https://github.com/Arya2809/Inspirewell)** – A hospital web app enabling doctor booking, patient registration & symptom checker.   
-🔹 **[Missionary-Cannibal Game](https://github.com/Arya2809/missionary-cannibal-game)** – AI pathfinding using the A* algorithm in Python.  
-🔹 **[Movie Booking System](https://github.com/Arya2809/Movie-Booking-System)** – A system built using C++, features include: booking movie tickets for any one of the 3 movies displayed based on 2D or 3D, select genre.
+# 🚀 Featured Projects
+
+### 🍽 Recipe Finder
+
+Modern React application that helps users discover recipes using TheMealDB API.
+
+🔗 Live Demo *(Coming Soon)*
+
+💻 Source Code
 
 ---
 
+### 🏥 InspireWell
 
+Hospital management web application featuring appointment booking and symptom checking.
 
-Thanks for stopping by — let’s build something meaningful together!  
+---
+
+### 🎬 Movie Booking System
+
+Console-based movie ticket booking application built using C++.
+
+---
+
+### 🎮 Missionary Cannibal Game
+
+Python implementation of the classic AI search problem.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+(Add GitHub Stats Here)
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- ASP.NET
+- Advanced React
+- UI / UX Principles
+- Performance Optimization
+- Web Accessibility
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn
+
+📧 Email
+
+🌐 Portfolio *(Coming Soon)*
+
+---
+
+# 💭 My Philosophy
+
+> Great software isn't just about writing code.
+
+> It's about creating experiences that are intuitive, reliable, and enjoyable to use.
+
+---
