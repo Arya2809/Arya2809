@@ -12,115 +12,146 @@ Frontend Developer • QA Engineer
 Crafting modern, responsive web experiences with a quality-first approach.
 </p>
 
----
-
-# 🙋 About Me
-
-I'm passionate about building clean, responsive, and user-friendly web applications that deliver a great user experience.
-
-My experience in Quality Assurance has taught me to think beyond writing code—focusing on reliability, usability, and attention to detail in every project.
-
-Currently, I'm expanding my frontend portfolio by building real-world applications and business websites while continuously learning modern web technologies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=A855F7&center=true&vCenter=true&width=650&lines=Frontend+Developer;QA+Engineer;React+Developer;Building+Business+Websites" alt="Typing Animation"/>
+</p>
 
 ---
 
-# 🎯 Current Focus
+## 🙋 About Me
 
-- 🚀 React Development
+I'm a **Frontend Developer** passionate about building clean, responsive and user-friendly web applications.
+
+My experience in **Quality Assurance** has taught me to think beyond writing code—focusing on reliability, usability and attention to detail in every project.
+
+Currently, I'm building modern business websites while continuously improving my frontend development skills through real-world projects.
+
+---
+
+## 🚀 Current Mission
+
+### 🪔 Project Diwali
+
+My goal is to help local businesses establish their online presence through modern, responsive websites while growing into a trusted freelance frontend developer.
+
+### 🎯 Current Focus
+
+- ⚛️ React Development
 - 🎨 UI / UX
 - 📱 Responsive Design
 - ⚡ Performance Optimization
 - ✅ Quality Assurance
-- 🌍 Freelance Web Development
+- 🌐 Freelancing
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
-## Programming
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,cs" />
 </p>
 
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
+### Currently Learning
 
-# 🚀 Featured Projects
-
-### 🍽 Recipe Finder
-
-Modern React application that helps users discover recipes using TheMealDB API.
-
-🔗 Live Demo *(Coming Soon)*
-
-💻 Source Code
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,mysql" />
+</p>
 
 ---
 
-### 🏥 InspireWell
-
-Hospital management web application featuring appointment booking and symptom checking.
-
----
-
-### 🎬 Movie Booking System
-
-Console-based movie ticket booking application built using C++.
-
----
-
-### 🎮 Missionary Cannibal Game
-
-Python implementation of the classic AI search problem.
-
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-(Add GitHub Stats Here)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arya2809&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya2809&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Arya2809&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- ASP.NET
-- Advanced React
-- UI / UX Principles
-- Performance Optimization
-- Web Accessibility
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn
-
-📧 Email
-
-🌐 Portfolio *(Coming Soon)*
+| Project | Description | Live Demo | Source Code |
+|---------|-------------|-----------|-------------|
+| 🍽 **Recipe Finder** | Find recipes using TheMealDB API with React & TailwindCSS | [🔗 Demo](YOUR_RECIPE_DEMO) | [💻 Code](YOUR_RECIPE_REPO) |
+| 🏥 **InspireWell** | Hospital appointment booking & symptom checker | [🔗 Demo](YOUR_INSPIREWELL_DEMO) | [💻 Code](YOUR_INSPIREWELL_REPO) |
+| 🎬 **Movie Booking System** | Console-based movie ticket booking system in C++ | — | [💻 Code](YOUR_MOVIE_REPO) |
+| 🎮 **Missionary Cannibal Game** | AI pathfinding implementation in Python | — | [💻 Code](YOUR_AI_REPO) |
 
 ---
 
-# 💭 My Philosophy
+## 🌱 Currently Learning
 
-> Great software isn't just about writing code.
+<p>
 
-> It's about creating experiences that are intuitive, reliable, and enjoyable to use.
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Advanced_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web_Accessibility-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance_Optimization-7C3AED?style=for-the-badge"/>
+
+</p>
 
 ---
+
+## 🤝 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/arya-prabhu-a889ba301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:aryaprabhu28@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+</p>
+
+📫 **Email:** aryaprabhu28@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/arya-prabhu-a889ba301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🌐 **Portfolio:** Coming Soon 🚀
+
+---
+
+## 💭 My Philosophy
+
+> **"Good software isn't just built—it's tested, refined and crafted."**
+
+I believe great software is more than writing code. It's about creating experiences that are intuitive, reliable and enjoyable to use.
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! If you like my work, feel free to connect or explore my repositories.
+
+</p>
