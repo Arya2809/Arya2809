@@ -19,29 +19,27 @@ Crafting modern, responsive web experiences with a quality-first approach.
 ---
 
 ## 🙋 About Me
+I'm a Computer Engineering graduate and Frontend Developer passionate about creating modern, responsive and user-friendly web applications.
 
-I'm a **Frontend Developer** passionate about building clean, responsive and user-friendly web applications.
+With experience in Quality Assurance, I bring a quality-first mindset to development, focusing on usability, reliability and attention to detail.
 
-My experience in **Quality Assurance** has taught me to think beyond writing code—focusing on reliability, usability and attention to detail in every project.
-
-Currently, I'm building modern business websites while continuously improving my frontend development skills through real-world projects.
-
+I'm currently exploring freelance web development, building websites for businesses and individuals while continuously growing my technical skills.
 ---
 
 ## 🚀 Current Mission
 
 ### 🪔 Project Diwali
 
-My goal is to help local businesses establish their online presence through modern, responsive websites while growing into a trusted freelance frontend developer.
+My freelance journey to help small businesses build a strong online presence through modern, responsive and user-friendly websites.
 
-### 🎯 Current Focus
+My goal: Turn ideas into functional digital experiences while building my portfolio, gaining real-world experience and growing as a freelance developer.
 
-- ⚛️ React Development
-- 🎨 UI / UX
-- 📱 Responsive Design
-- ⚡ Performance Optimization
-- ✅ Quality Assurance
-- 🌐 Freelancing
+Services I'm exploring:
+
+🌐 Business websites
+📱 Responsive landing pages
+🎨 Website redesigns
+⚡ Performance and usability improvements
 
 ---
 
@@ -50,25 +48,19 @@ My goal is to help local businesses establish their online presence through mode
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
 </p>
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-### Tools
+### QA Automation tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,playwright" />
 </p>
 
 ---
@@ -96,23 +88,6 @@ My goal is to help local businesses establish their online presence through mode
 
 ---
 
-## 🌱 Currently Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Advanced_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web_Accessibility-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Performance_Optimization-7C3AED?style=for-the-badge"/>
-
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -127,12 +102,6 @@ My goal is to help local businesses establish their online presence through mode
 </a>
 
 </p>
-
-📫 **Email:** aryaprabhu28@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/arya-prabhu-a889ba301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-🌐 **Portfolio:** Coming Soon 🚀
 
 ---
 
