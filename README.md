@@ -24,15 +24,14 @@ I'm a Computer Engineering graduate and Frontend Developer passionate about crea
 With experience in Quality Assurance, I bring a quality-first mindset to development, focusing on usability, reliability and attention to detail.
 
 I'm currently exploring freelance web development, building websites for businesses and individuals while continuously growing my technical skills.
+
 ---
 
 ## 🚀 Current Mission
 
-### 🪔 Project Diwali
-
 My freelance journey to help small businesses build a strong online presence through modern, responsive and user-friendly websites.
 
-My goal: Turn ideas into functional digital experiences while building my portfolio, gaining real-world experience and growing as a freelance developer.
+My goal: Turn ideas into functional digital experiences while building my portfolio, gaining real-world experience and growing as a freelance engineer.
 
 Services I'm exploring:
 
@@ -60,7 +59,8 @@ Services I'm exploring:
 ### QA Automation tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,playwright" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ---
