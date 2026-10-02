@@ -18,7 +18,7 @@ Crafting modern, responsive web experiences with a quality-first approach.
 
 ---
 
-## 🙋 About Me
+## 🙋🏻‍♀️ About Me
 I'm a Computer Engineering graduate and Frontend Developer passionate about creating modern, responsive and user-friendly web applications.
 
 With experience in Quality Assurance, I bring a quality-first mindset to development, focusing on usability, reliability and attention to detail.
