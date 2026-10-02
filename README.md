@@ -82,9 +82,9 @@ Services I'm exploring:
 | Project | Description | Live Demo | Source Code |
 |---------|-------------|-----------|-------------|
 | 🍽 **Recipe Finder** | Find recipes using TheMealDB API with React & TailwindCSS | [🔗 Demo](https://recipe-finder-ruby-phi.vercel.app) | [💻 Code](https://github.com/Arya2809/Recipe-Finder.git) |
-| 🏥 **InspireWell** | Hospital appointment booking & symptom checker | [🔗 Demo](YOUR_INSPIREWELL_DEMO) | [💻 Code](YOUR_INSPIREWELL_REPO) |
-| 🎬 **Movie Booking System** | Console-based movie ticket booking system in C++ | — | [💻 Code](YOUR_MOVIE_REPO) |
-| 🎮 **Missionary Cannibal Game** | AI pathfinding implementation in Python | — | [💻 Code](YOUR_AI_REPO) |
+| 🏥 **InspireWell** | Hospital appointment booking & symptom checker | — | [💻 Code](https://github.com/Arya2809/Inspirewell.git) |
+| 🎬 **Movie Booking System** | Console-based movie ticket booking system in C++ | — | [💻 Code](https://github.com/Arya2809/Movie-Booking-System.git) |
+| 🎮 **Missionary Cannibal Game** | AI pathfinding implementation in Python | — | [💻 Code](https://github.com/Arya2809/missionary-cannibal-game.git) |
 
 ---
 
